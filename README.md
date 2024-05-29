@@ -1,1 +1,4 @@
-# su20-proj2-starter
+# CS61C project2
+
+Handwritten Digit Classification with RISC-V assembly.
+Running in Venus.
